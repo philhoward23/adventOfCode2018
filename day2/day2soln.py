@@ -43,6 +43,6 @@ for index, word in enumerate(input):
 			print word, word2
 			found=True
 			break
-		if found:
-			break
+	if found:
+		break
 
