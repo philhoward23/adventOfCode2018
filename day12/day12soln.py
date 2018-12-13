@@ -170,8 +170,8 @@ plants_max = len(plants)
 
 plants_min_1000, plants_max_1000 = n_generations(1000,rules, plants, plants_min, plants_max)
 #pattern fixed but shifting one to right after some early dynamics
-#1000 generations -> 55800, seems increments 54 each time since 54 values are '#'
-55800 + (50000000000-1000)*54
+#1000 generations -> 73377, seems increments 73 each time since 73 values are '#'
+73377 + (50000000000-1000)*73
 
 
 
